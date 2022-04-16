@@ -16,8 +16,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'GapurKassym',
-        short_name: 'GapurKassym',
+        name: 'Abdur-RaqeebAjao',
+        short_name: 'Abdur-RaqeebAjao',
         start_url: '/',
         background_color: config.darkNavyColor,
         theme_color: config.navyColor,
@@ -138,11 +138,11 @@ module.exports = {
         ],
       },
     },
-    {
-      resolve: `gatsby-plugin-google-analytics`,
-      options: {
-        trackingId: config.googleAnalyticsID,
-      },
-    },
+    // {
+    //   resolve: `gatsby-plugin-google-analytics`,
+    //   options: {
+    //     trackingId: config.googleAnalyticsID,
+    //   },
+    // },
   ],
 };

@@ -1,38 +1,38 @@
 module.exports = {
-  siteTitle: 'Gapur Kassym | Software Engineer | Writer',
+  siteTitle: 'Abdur-Raqeeb Ajao | Software Engineer',
   siteDescription:
-    'Gapur Kassym is passionate about building excellent software that improves the lives of those around me. I specialize in creating software for clients ranging from individuals and small-businesses all the way to large enterprise corporations.',
+    'Abdur-Raqeeb Ajao is passionate about building  beautiful and performant products with delightful user experiences.',
   siteKeywords:
-    'Gapur Kassym, Gapur, Kassym, gkassym, software engineer, frontend engineer, web developer, javascript, react',
+    'Abdur-Raqeeb Ajao, Ajao, Abdur-Raqeeb, AbdRaqeeb, software engineer, frontend engineer, web developer, javascript, react',
   siteUrl: 'https://gkassym.netlify.com',
   siteLanguage: 'en_US',
-  googleAnalyticsID: 'UA-45666519-2',
-  googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'Gapur Kassym',
-  location: 'Karagandy, Kazakhstan',
-  email: 'gapur.kassym@gmail.com',
-  github: 'https://github.com/Gapur',
-  twitterHandle: '@GKassym',
+  // googleAnalyticsID: 'UA-45666519-2',
+  // googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
+  name: 'Abdur-Raqeeb Ajao',
+  location: 'Abuja, Nigeria',
+  email: 'ajaorqb@gmail.com',
+  github: 'https://github.com/AbdRaqeeb',
+  twitterHandle: '@Roqmania',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/Gapur',
+      url: 'https://github.com/AbdRaqeeb',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/gapur-kassym',
+      url: 'https://www.linkedin.com/in/abdraqeeb/',
     },
-    {
-      name: 'Medium',
-      url: 'https://medium.com/@gapur.kassym',
-    },
-    {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/gkassym',
-    },
+    // {
+    //   name: 'Medium',
+    //   url: 'https://medium.com/@gapur.kassym',
+    // },
+    // {
+    //   name: 'Instagram',
+    //   url: 'https://www.instagram.com/gkassym',
+    // },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/GKassym',
+      url: 'https://twitter.com/Roqmania',
     },
   ],
 
